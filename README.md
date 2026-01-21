@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Oussama, a Software Engineer based in Barcelona, Spain. 
+I'm Oussama, a Software Engineer based in Barcelona, Catalonia, Spain. 
 
 My focus is to write software that's [simple, reliable and fast (in that order)](https://drewdevault.com/2018/07/09/Simple-correct-fast.html).
 
