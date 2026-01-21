@@ -19,6 +19,6 @@ focus on the important problems at hand.
 - In another life I would've become a carpenter.
 - I have a crippling coffee dependency.
 - I love the cyberpunk genre (please read *Do Androids Dream of Electric Sheep?*).
-- I like rock climbing, hiking, and gaming (*Balatro* is my favorite game).
+- I like rock climbing, cooking delicious food, and gaming (*Balatro* is my favorite game).
 
 📫 If you want to chat, you can reach out by connecting with me on my [LinkedIn](https://linkedin.com/in/oakachach).
