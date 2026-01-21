@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Oussama, a Software Engineer based in Barcelona, Spain.
+I'm Oussama, a Software Engineer based in Barcelona, Spain. My focus is writing software that's simple, reliable and fast (in that order).
 
 I am currently working on getting better at Rust and systems programming in order to apply for systems engineering jobs. I'll be posting my progress here.
 
