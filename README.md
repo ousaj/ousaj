@@ -9,6 +9,8 @@ My main tech stack is Angular, Java and TypeScript, although I have experience w
 My favourite tools are Neovim (btw), a terminal (anything with Bash), and plain-text files. I keep it simple because that helps me understand the system better and lets me
 focus on the important problems at hand.
 
+I am currently working on getting better at Rust and systems programming in order to apply for systems engineering jobs. I'll be posting my progress here.
+
 📫 If you want to chat, you can connect with me on my [LinkedIn](https://linkedin.com/in/oakachach).
 
 <!--
