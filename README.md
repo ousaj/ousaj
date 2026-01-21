@@ -9,6 +9,23 @@ My main tech stack is Angular, Java and TypeScript, although I have experience i
 My favorite tools are Neovim (btw), a terminal (anything with Bash), and plain-text files. I keep it simple because that helps me understand the system better and lets me
 focus on the important problems at hand.
 
+This is a profile where I'll be uploading projects, experiments, and things I'm currently working on. 
 I'll be pinning more projects soon, but my favorite one thus far is the [Eulerian fluid simulation](https://github.com/ousaj/fluid-sim), written in Rust, using OpenGL.
 
-📫 If you want to chat, you can reach out by connect with me on my [LinkedIn](https://linkedin.com/in/oakachach).
+---
+
+## Tools & Tech
+
+- Programming languages: Java, Rust, C, TypeScript.
+- i3, tmux and neovim are my go-to development tools.
+- Plain-text files whenever possible.
+
+---
+
+## A bit about me
+
+- I have a crippling coffee dependency.
+- I love the cyberpunk genre.
+- I like rock climbing, hiking, and gaming (Balatro is my favorite game).
+
+📫 If you want to chat, you can reach out by connecting with me on my [LinkedIn](https://linkedin.com/in/oakachach).
