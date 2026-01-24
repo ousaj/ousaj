@@ -4,7 +4,7 @@ I'm Oussama, a Software Engineer based in Barcelona, Catalonia, Spain.
 
 My focus is to write software that's [simple, reliable and fast (in that order)](https://drewdevault.com/2018/07/09/Simple-correct-fast.html).
 
-I'm currently working on getting better at Rust and systems programming in order to apply for systems engineering jobs. 
+I'm currently working on getting better at Rust and systems programming in order to apply for systems/firmware engineering jobs. 
 
 This is a profile where I'll be uploading projects, experiments, and things I'm currently working on. 
 I'll be pinning more projects soon, but my favorite one thus far is this [Eulerian fluid simulation](https://github.com/ousaj/fluid-sim), written in Rust, using OpenGL.
