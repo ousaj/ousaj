@@ -7,7 +7,7 @@ My focus is to write software that's [simple, reliable and fast (in that order)]
 This is a profile where I'll be uploading projects, experiments, and things I'm currently working on. 
 I'll be pinning more projects soon, but my favorite one thus far is this [Eulerian fluid simulation](https://github.com/ousaj/fluid-sim), written in Rust, using OpenGL.
 
-My main tech stack is Angular, Java and TypeScript, although I have experience in projects using Rust, C, and React.
+My main tech stack is Python and Rust, although I have experience in projects using TypeScript, Java and C.
 
 My favorite tools are neovim (btw), a terminal (anything with Bash), and plain-text files whenever possible. I keep it simple because that helps me understand the system better and lets me
 focus on the important problems at hand.
